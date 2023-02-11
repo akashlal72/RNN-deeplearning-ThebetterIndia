@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @akashlal72
 **Problem statement**: The better India is the world's largest positive and solution
 based content driven impact platform. They use their website to share the contents
 around the world in the form of articles and other forms of media. The problem we are
